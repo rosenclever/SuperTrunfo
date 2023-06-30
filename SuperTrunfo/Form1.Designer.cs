@@ -59,8 +59,8 @@
             // splitContainer1.Panel2
             // 
             splitContainer1.Panel2.Controls.Add(groupBox2);
-            splitContainer1.Size = new Size(583, 356);
-            splitContainer1.SplitterDistance = 293;
+            splitContainer1.Size = new Size(659, 484);
+            splitContainer1.SplitterDistance = 332;
             splitContainer1.SplitterWidth = 2;
             splitContainer1.TabIndex = 0;
             // 
@@ -154,7 +154,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(583, 356);
+            ClientSize = new Size(659, 484);
             Controls.Add(splitContainer1);
             Margin = new Padding(1, 1, 1, 1);
             Name = "Form1";
